@@ -1,5 +1,5 @@
 
-# <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
+# <h1 align="center">Hi 👋, I'm Harsh Kunpara</h1>
 <h3 align="center">AI & IoT Developer | Full Stack Developer | DSA Enthusiast </h3>
 
 <p align="center">
@@ -50,7 +50,7 @@ Whether you have an idea, an opportunity, or just want to connect—my inbox is 
 
 | 📌 **Information** | 🚀 **Details** |
 |:------------------:|:--------------|
-| 👨‍💻 **Name** | **Harsh Patel** |
+| 👨‍💻 **Name** | **Harsh Kunpara** |
 | 🎓 **Role** | B.Tech Information Technology Student |
 | 💼 **Interests** | AI • IoT • Full Stack Development • Open Source |
 | 📍 **Location** | Gujarat, India 🇮🇳 |
@@ -74,7 +74,7 @@ Whether you have an idea, an opportunity, or just want to connect—my inbox is 
 
 <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat-square"/>
 <img src="https://img.shields.io/badge/Response%20Time-Within%2024%20Hours-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ask%20Me-AI%20%7C%20IoT%20%7C%20React%20%7C%20Java-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ask%20Me-IOT%20%7C%20Problem%20Solving%7C%20DSA%20%7C%20Java-orange?style=flat-square"/>
 
 </p>
 
@@ -145,7 +145,7 @@ Whether you have an idea, an opportunity, or just want to connect—my inbox is 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=harshkunpara&theme=tokyonight&hide_border=true"/>
+ <img height="180" src="https://streak-stats.demolab.com?user=harshkunpara&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </p>
 
