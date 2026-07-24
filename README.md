@@ -3,7 +3,7 @@
 <h3 align="center">AI & IoT Developer | Full Stack Developer | DSA Enthusiast </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+IoT+Developer;Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+React;Open+Source+Learner;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+IoT+Developer;Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+DSA;Open+Source+Learner;Always+Learning+Something+New"/>
 </p>
 
 ---
