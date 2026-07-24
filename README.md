@@ -144,9 +144,10 @@ Whether you have an idea, an opportunity, or just want to connect—my inbox is 
 </p>
 
 <p align="center">
-
- <img height="180" src="https://streak-stats.demolab.com?user=harshkunpara&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=harshkunpara&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&v=20260724"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
