@@ -125,7 +125,7 @@ Turning ideas into projects that people can actually use.
 ## CURRENTLY BUILDING
 
 
-##  — SELECTED PROJECTS
+## SELECTED PROJECTS
 
 <table>
 <tr>
