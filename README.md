@@ -393,16 +393,21 @@ AI-driven application focused on exploring intelligent software experiences and 
 
 ## GitHub Analysis
 
-</p>
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=harshkunpara&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&v=20260724"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=harshkunpara&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D"
+    alt="Harsh Kunpara's GitHub Streak"
   />
 </p>
 
----
+<br>
+
+<!-- <p align="center">
+  <img
+    src="https://ghchart.rshah.org/22D3EE/harshkunpara"
+    alt="Harsh Kunpara's GitHub Contribution Graph"
+  />
+</p> -->
 
 ## Contribution Snake
 
