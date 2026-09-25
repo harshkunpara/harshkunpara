@@ -234,135 +234,160 @@ AI-driven application focused on exploring intelligent software experiences and 
 </p>
 
 ---
-
-## HOW I SOLVE PROBLEMS
+## ◈ PROBLEM SOLVING
 
 <p align="center">
-
-<b>UNDERSTAND</b>
-&nbsp; → &nbsp;
-<b>BREAK DOWN</b>
-&nbsp; → &nbsp;
-<b>DESIGN</b>
-&nbsp; → &nbsp;
-<b>IMPLEMENT</b>
-&nbsp; → &nbsp;
-<b>TEST</b>
-&nbsp; → &nbsp;
-<b>DEBUG</b>
-&nbsp; → &nbsp;
-<b>IMPROVE</b>
-
+  <i>I don't start with code. I start by understanding the problem.</i>
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center"><b>01</b><br>UNDERSTAND</td>
+<td align="center">→</td>
+<td align="center"><b>02</b><br>BREAK DOWN</td>
+<td align="center">→</td>
+<td align="center"><b>03</b><br>THINK</td>
+<td align="center">→</td>
+<td align="center"><b>04</b><br>BUILD</td>
+<td align="center">→</td>
+<td align="center"><b>05</b><br>TEST</td>
+<td align="center">→</td>
+<td align="center"><b>06</b><br>IMPROVE</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### ◆ Understand
+
+- Define what the problem actually requires.
+- Identify constraints, inputs and expected outcomes.
+- Separate the root problem from its symptoms.
+- Understand the context before choosing a solution.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◆ Break Down
+
+- Divide complex problems into smaller components.
+- Identify relationships between different parts.
+- Look for patterns and reusable ideas.
+- Solve one clear piece at a time.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ◆ Think
+
+- Compare multiple possible approaches.
+- Consider simplicity, scalability and maintainability.
+- Choose tools and structures based on the problem.
+- Think about edge cases before implementation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◆ Build
+
+- Start with the simplest correct solution.
+- Keep the implementation readable and focused.
+- Build in small, testable iterations.
+- Avoid complexity that does not add value.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ◆ Test & Debug
+
+- Test beyond the expected or happy path.
+- Challenge assumptions with edge cases.
+- Trace failures back to their actual cause.
+- Fix the source of the problem, not just the symptom.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◆ Improve
+
+- Refactor when complexity starts to grow.
+- Remove unnecessary code and duplication.
+- Improve performance where it actually matters.
+- Make every iteration clearer than the previous one.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## ◈ ENGINEERING MINDSET
 
 <table align="center">
 
 <tr>
-<td><b>01 · Understand</b></td>
-<td>Identify what the problem actually requires before writing code.</td>
+<td><b>CLARITY</b></td>
+<td>Understand the problem before choosing the solution.</td>
 </tr>
 
 <tr>
-<td><b>02 · Break Down</b></td>
-<td>Turn a large problem into smaller, manageable components.</td>
+<td><b>SIMPLICITY</b></td>
+<td>Prefer solutions that are clear, practical and maintainable.</td>
 </tr>
 
 <tr>
-<td><b>03 · Choose</b></td>
-<td>Select an appropriate data structure, algorithm or architecture.</td>
+<td><b>RELIABILITY</b></td>
+<td>Consider edge cases, failures and real-world usage.</td>
 </tr>
 
 <tr>
-<td><b>04 · Build</b></td>
-<td>Write the simplest correct implementation first.</td>
+<td><b>OWNERSHIP</b></td>
+<td>Take ideas beyond development and turn them into working products.</td>
 </tr>
 
 <tr>
-<td><b>05 · Test</b></td>
-<td>Think about edge cases instead of testing only the happy path.</td>
-</tr>
-
-<tr>
-<td><b>06 · Debug</b></td>
-<td>Understand why something fails instead of simply patching it.</td>
-</tr>
-
-<tr>
-<td><b>07 · Improve</b></td>
-<td>Refactor, optimize and make the solution easier to maintain.</td>
+<td><b>ITERATION</b></td>
+<td>Build, learn, refine and continuously improve.</td>
 </tr>
 
 </table>
 
----
+<br>
 
-## DSA & PROBLEM SOLVING
+<div align="center">
 
-My development journey isn't only about frameworks.
+### `UNDERSTAND → THINK → BUILD → TEST → DEBUG → IMPROVE`
 
-I'm actively strengthening the fundamentals behind software engineering:
+<br>
 
-```text
-Data Structures
-      ↓
-Algorithms
-      ↓
-Time & Space Complexity
-      ↓
-Pattern Recognition
-      ↓
-Implementation
-      ↓
-Edge Cases
-      ↓
-Optimization
-```
+**Good code solves the problem.**
 
-### Current Areas
+*Better engineering makes the solution last.*
 
-`C++` · `Java` · `Data Structures` · `Algorithms` · `Problem Solving`
-
-The goal is simple:
-
-> **Understand why a solution works, not just how to write it.**
-
----
-
-## SOFTWARE ENGINEERING MINDSET
-
-<table>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>Build interfaces that are responsive, clear and easy to use.</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>Think about APIs, logic, data flow and maintainable code.</td>
-</tr>
-
-<tr>
-<td><b>Data</b></td>
-<td>Choose practical data structures and organize information properly.</td>
-</tr>
-
-<tr>
-<td><b>Algorithms</b></td>
-<td>Care about correctness, complexity and edge cases.</td>
-</tr>
-
-<tr>
-<td><b>Debugging</b></td>
-<td>Find the root cause instead of repeatedly treating symptoms.</td>
-</tr>
-
-<tr>
-<td><b>Deployment</b></td>
-<td>Take projects beyond local development and make them accessible.</td>
-</tr>
-
-</table>
+</div>
 
 ---
 
