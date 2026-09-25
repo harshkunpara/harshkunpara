@@ -28,47 +28,19 @@
 
 ## DEVELOPER PROFILE
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+| *Information* | *Details* |
+|:------------------:|:--------------|
+| *Name* | *Harsh Kunpara* |
+| *Role* | B.Tech Information Technology Student |
+| *Interests* | AI • Full Stack Development • Problem Solving |
+| *Location* | Gujarat, India 🇮🇳 |
+| *Email* | **harshkunpara742@gmail.com** |
+| *GitHub* | **github.com/harshkunpara** |
+| *LinkedIn* | **linkedin.com/in/harshpatelll** |
 
-```text
-NAME        : Harsh Kunpara
-ROLE        : Software Engineer
-              Full Stack Developer
-EDUCATION   : B.Tech Information Technology
-INSTITUTE   : CSPIT
-UNIVERSITY  : CHARUSAT
-LOCATION    : Gujarat, India
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### What I Build
-
-```text
-Frontend
-   ↓
-Backend
-   ↓
-Database
-   ↓
-APIs
-   ↓
-Deployment
-   ↓
-Real Product
-```
-
-I enjoy taking an idea from a blank screen to a functional, deployable application.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <p align="center">
   <b>Software should not only work — it should be understandable, useful and built to evolve.</b>
@@ -83,7 +55,6 @@ I enjoy taking an idea from a blank screen to a functional, deployable applicati
 
 <td width="25%" align="center">
 
-### 💻
 ### Full Stack
 
 Building complete web applications from interface to backend.
@@ -92,7 +63,6 @@ Building complete web applications from interface to backend.
 
 <td width="25%" align="center">
 
-### 🧩
 ### Problem Solving
 
 Strengthening logic through DSA, algorithms and practical debugging.
@@ -101,7 +71,6 @@ Strengthening logic through DSA, algorithms and practical debugging.
 
 <td width="25%" align="center">
 
-### ⚙️
 ### Engineering
 
 Learning how to structure maintainable and scalable software.
@@ -110,7 +79,6 @@ Learning how to structure maintainable and scalable software.
 
 <td width="25%" align="center">
 
-### 🚀
 ### Building
 
 Turning ideas into projects that people can actually use.
