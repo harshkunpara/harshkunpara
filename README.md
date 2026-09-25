@@ -16,10 +16,13 @@
   <a href="mailto:harshkunpara742@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://orcid.org/0009-0000-6964-0557">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=1E3A8A&center=true&vCenter=true&width=850&lines=Building+clean%2C+scalable+software.;Full+Stack+Development+%7C+Problem+Solving;C%2B%2B+%7C+Java+%7C+JavaScript;Turning+ideas+into+real+working+products.;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&lines=Building+Digital+Products+From+Ideas+To+Reality.;Developer+Focused+On+Building%2C+Learning+%26+Shipping.;Turning+Complex+Problems+Into+Simple+Solutions.;Creating+Experiences+That+Are+Useful%2C+Fast+%26+Scalable.;Curiosity+Drives+The+Build.;Think+%E2%86%92+Create+%E2%86%92+Test+%E2%86%92+Ship+%E2%86%92+Evolve" />
 </p>
 
 </div>
@@ -92,6 +95,49 @@ Turning ideas into projects that people can actually use.
 
 ## CURRENTLY BUILDING
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Portfolio
+
+A modern developer portfolio built to showcase my projects, technical skills, experience and journey as a developer.
+
+**Building**
+
+- Interactive UI
+- Smooth animations
+- Responsive design
+- Personal branding
+
+**Stack**
+
+`React` `JavaScript` `Tailwind CSS` `Vite`
+
+</td>
+
+<!-- <td width="50%" valign="top">
+
+### Next Project
+
+Currently exploring and building a new project focused on solving a practical problem through modern web technologies and intelligent features.
+
+**Exploring**
+
+- Full Stack Development
+- AI Integration
+- Modern Web Technologies
+- Product Development
+
+**Status**
+
+`In Progress` `Learning` `Building`
+
+</td> -->
+
+</tr>
+</table>
 
 ## SELECTED PROJECTS
 
@@ -100,60 +146,47 @@ Turning ideas into projects that people can actually use.
 
 <td width="50%" valign="top">
 
+<a href="https://github.com/harshkunpara/Skillora" target="_blank">
 
+###  Skillora
 
-### 🎓 StudentHub
-
-Digital campus portal designed around useful student-focused functionality.
-
-**Focus**
-
-- Web development
-- Responsive UI
-- Campus experience
-- Frontend architecture
-
-**Stack**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-
-### 🎨 Personal Portfolio
-
-My developer portfolio focused on presenting my work, skills, projects and development journey.
+AI-powered learning and career platform designed to help students build skills, explore career paths and grow through personalized guidance.
 
 **Focus**
 
-- UI/UX
-- Responsive design
-- Animations
-- Personal branding
+- AI-powered learning
+- Career guidance
+- Personalized roadmaps
+- Student development
 
 **Stack**
 
-`HTML` `CSS` `JavaScript`
+`React` `JavaScript` `Supabase` `AI` `Tailwind CSS`
+
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AIVORA
+<a href="https://github.com/harshkunpara/Aivora" target="_blank">
 
-A project exploring AI-driven application development and intelligent software experiences.
+### AIVORA
+
+AI-driven application focused on exploring intelligent software experiences and practical AI-powered solutions.
 
 **Focus**
 
 - Artificial Intelligence
+- Intelligent applications
 - Software development
 - Product experimentation
+
+**Stack**
+
+`AI` `JavaScript` `React` `Web Development`
+
+</a>
 
 </td>
 
@@ -198,16 +231,6 @@ A project exploring AI-driven application development and intelligent software e
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,replit,netlify" />
-</p>
-
-<p align="center">
-  <code>REST APIs</code>
-  <code>Supabase</code>
-  <code>Vite</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>Figma</code>
-  <code>Vercel</code>
 </p>
 
 ---
@@ -343,71 +366,26 @@ The goal is simple:
 
 ---
 
-## GITHUB ANALYTICS
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=harshkunpara&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=14"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkunpara&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=14"
-  height="180"
-/>
+## GitHub Analysis
 
 </p>
 
 <p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=harshkunpara&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE"
-  width="68%"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=harshkunpara&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&v=20260724"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## CONTRIBUTION ACTIVITY
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harshkunpara&bg_color=0D1117&color=E5E7EB&line=22D3EE&point=7C3AED&area=true&hide_border=true&radius=12"
-  width="96%"
-/>
-
-</p>
-
----
-
-## CONTRIBUTION SNAKE
-
-<p align="center">
+## Contribution Snake
 
 <picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake-dark.svg"
-/>
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg"
-/>
-
-<img
-  alt="GitHub Contribution Snake"
-  src="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg"
-  width="96%"
-/>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyagp/bhavyagp/output/github-snake.svg" style="width: 100%;" />
 </picture>
-
-</p>
 
 ---
 
@@ -443,10 +421,6 @@ building useful software and exploring interesting engineering problems.
 <img src="https://img.shields.io/badge/LINKEDIN-HARSH%20KUNPARA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://harshkunpara.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 <a href="mailto:harshkunpara742@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -454,14 +428,14 @@ building useful software and exploring interesting engineering problems.
 </p>
 
 ---
-
-<p align="center">
+<div align="center">
 
 <img
   src="https://komarev.com/ghpvc/?username=harshkunpara&label=PROFILE%20VISITORS&color=22D3EE&style=for-the-badge"
+  alt="Profile Visitors"
 />
 
-</p>
+</div>
 
 ---
 
