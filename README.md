@@ -104,7 +104,7 @@ Turning ideas into projects that people can actually use.
 
 A modern developer portfolio built to showcase my projects, technical skills, experience and journey as a developer.
 
-**Building**
+**Built**
 
 - Interactive UI
 - Smooth animations
