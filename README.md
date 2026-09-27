@@ -454,7 +454,9 @@ building useful software and exploring interesting engineering problems.
 <a href="mailto:harshkunpara742@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+  <a href="https://orcid.org/0009-0000-6964-0557">
+    <img src="https://img.shields.io/badge/ORCID-0009--0000--6964--0557-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
 </p>
 
 ---
