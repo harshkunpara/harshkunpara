@@ -224,7 +224,7 @@ AI-driven application focused on exploring intelligent software experiences and 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,docker" />
 </p>
 
 ### Deployment
