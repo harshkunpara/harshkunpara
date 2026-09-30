@@ -212,7 +212,7 @@ AI-driven application focused on exploring intelligent software experiences and 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php" />
 </p>
 
 ### Databases & Backend Services
