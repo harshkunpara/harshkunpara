@@ -461,12 +461,10 @@ building useful software and exploring interesting engineering problems.
 
 ---
 <div align="center">
-
 <img
   src="https://komarev.com/ghpvc/?username=harshkunpara&label=PROFILE%20VISITORS&color=22D3EE&style=for-the-badge"
   alt="Profile Visitors"
 />
-
 </div>
 
 ---
