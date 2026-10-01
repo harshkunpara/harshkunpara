@@ -140,53 +140,102 @@ Currently exploring and building a new project focused on solving a practical pr
 </table>
 
 ## SELECTED PROJECTS
+---
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/harshkunpara/Skillora" target="_blank">
+<h3>IntentOS</h3>
 
-###  Skillora
+<p>
+Autonomous AI sales platform that turns public buying signals into
+qualified sales opportunities through intelligent discovery,
+intent scoring, AI qualification and voice-based engagement.
+</p>
 
-AI-powered learning and career platform designed to help students build skills, explore career paths and grow through personalized guidance.
+<strong>Built With</strong>
 
-**Focus**
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Prisma</code>
+<code>SQLite</code> <code>Tailwind CSS</code> <code>AI</code>
+</p>
 
-- AI-powered learning
-- Career guidance
-- Personalized roadmaps
-- Student development
-
-**Stack**
-
-`React` `JavaScript` `Supabase` `AI` `Tailwind CSS`
-
+<p>
+<a href="https://github.com/harshkunpara/AI-Sales-Agent">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2F2F2F?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=3F3F46" alt="View Repository"/>
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/harshkunpara/Aivora" target="_blank">
+<h3>Skillora</h3>
 
-### AIVORA
+<p>
+AI-powered learning and career platform designed to help students
+build skills, explore career paths and receive personalized guidance.
+</p>
 
-AI-driven application focused on exploring intelligent software experiences and practical AI-powered solutions.
+<strong>Built With</strong>
 
-**Focus**
+<p>
+<code>React</code> <code>JavaScript</code> <code>Supabase</code>
+<code>AI</code> <code>Tailwind CSS</code>
+</p>
 
-- Artificial Intelligence
-- Intelligent applications
-- Software development
-- Product experimentation
-
-**Stack**
-
-`AI` `JavaScript` `React` `Web Development`
-
+<p>
+<a href="https://github.com/harshkunpara/Skillora">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2F2F2F?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=3F3F46" alt="View Repository"/>
 </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>AIVORA</h3>
+
+<p>
+AI-driven application exploring intelligent software experiences
+and practical AI-powered solutions.
+</p>
+
+<strong>Built With</strong>
+
+<p>
+<code>AI</code> <code>React</code> <code>JavaScript</code>
+<code>Web Development</code>
+</p>
+
+<p>
+<a href="https://github.com/harshkunpara/Aivora">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2F2F2F?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=3F3F46" alt="View Repository"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>More Projects</h3>
+
+<p>
+Explore my GitHub repositories for additional experiments,
+web applications, AI projects and development work.
+</p>
+
+<p>
+<a href="https://github.com/harshkunpara?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20%20ALL%20REPOSITORY-2F2F2F?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=3F3F46" alt="View Repository"/>
+</a>
+</p>
 
 </td>
 
@@ -194,8 +243,6 @@ AI-driven application focused on exploring intelligent software experiences and 
 </table>
 
 ---
-
-## ENGINEERING STACK
 
 ### Programming Languages
 
