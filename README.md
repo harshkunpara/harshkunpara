@@ -253,7 +253,7 @@ web applications, AI projects and development work.
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
 ### Backend Development
@@ -271,13 +271,13 @@ web applications, AI projects and development work.
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
 
 ### Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,replit,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel,replit" />
 </p>
 
 ---
