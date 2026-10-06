@@ -200,22 +200,25 @@ build skills, explore career paths and receive personalized guidance.
 
 <td width="50%" valign="top">
 
-<h3>AIVORA</h3>
+<h3>StudentHub</h3>
 
 <p>
-AI-driven application exploring intelligent software experiences
-and practical AI-powered solutions.
+Full-stack campus management portal built to learn and implement
+server-side web development with PHP, featuring student authentication,
+database-driven dashboards, event registration, academic profiles,
+feedback management and an admin panel.
 </p>
 
 <strong>Built With</strong>
 
 <p>
-<code>AI</code> <code>React</code> <code>JavaScript</code>
-<code>Web Development</code>
+<code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+<code>HTML</code> <code>CSS</code> <code>PDO</code>
+<code>XAMPP</code>
 </p>
 
 <p>
-<a href="https://github.com/harshkunpara/Aivora">
+<a href="https://github.com/harshkunpara/StudentHub">
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2F2F2F?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=3F3F46" alt="View Repository"/>
 </a>
 </p>
